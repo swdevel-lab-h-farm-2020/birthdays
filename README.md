@@ -7,9 +7,13 @@ In this repository you can find a file named ```birthday.py``` that contains a s
 $ python main.py
 Albert Einstein's birthday is 03/14/1879.
 Sadly, we don't have Alan Turing's birthday.
+
+Lebron James's birthday is 30/12/1984.
 ```
 
 
 ## Credits:
 
 Code is taken from the nice [practice Python](https://www.practicepython.org/) website from Michele Pratusevich and is released with a [CC-BY](https://www.practicepython.org/about/) license.
+
+there is an issue to be fixed
