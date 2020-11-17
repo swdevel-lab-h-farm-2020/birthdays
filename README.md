@@ -8,7 +8,16 @@ $ python main.py
 Albert Einstein's birthday is 03/14/1879.
 Sadly, we don't have Alan Turing's birthday.
 ```
+ciao a tutti
 
+
+ciao a tutti, sono Anna e ho 21 anni. Ele è del 97, Ale del 98, io del 99, Matti del 2000. Siamo in scala! 
+
+Fix credenziali - Anna
+
+prova 3, per provare a fare il merge
+
+prova 4 merge
 
 ## Credits:
 
